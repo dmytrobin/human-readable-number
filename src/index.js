@@ -4,7 +4,7 @@ module.exports = function toReadable (number) {
  
   var  teens = ['ten','eleven','twelve','thirteen','fourteen','fifteen','sixteen','seventeen','eighteen', 'nineteen'];
   var  tens = ['ten','twenty','thirty','forty','fifty','sixty','seventy','eighty','ninety'];
-  var hundreds = [''];
+  var hundreds = ['ten','twenty','thirty','forty','fifty','sixty','seventy','eighty','ninety'];
    
    console.log(singleDigit[number]);
    return result;
